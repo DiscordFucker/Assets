@@ -1,1 +1,1 @@
-http://api.fucker.today/v1
+http://2.api.fucker.today/v1
